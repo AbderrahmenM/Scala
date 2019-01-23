@@ -169,7 +169,7 @@ Nous arrivons à la fin de ce tuto. J’espère avoir été clair lors de mes ex
 
 
 
-*													[MRABET Abderrahmen](https://github.com/MbtAbd/Scala), M2 EI2D, Promotion 2019 ®
+*	MRABET Abderrahmen, M2 EI2D, Promotion 2019 ®
 
 ------
 
